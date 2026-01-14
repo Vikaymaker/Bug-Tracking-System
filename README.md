@@ -5,7 +5,7 @@ The **Bug Tracking System** is a Python-based tool designed to help developers, 
 ---
 ## 📸 Output Screenshot
 
-![Bug Tracking System Output](bug.png)
+![Bug Tracking System Output](output.png)
 
 ---
 ## 📌 Overview
@@ -21,3 +21,4 @@ A bug tracking system helps teams record bug details, track bug status, and main
 git clone https://github.com/Vikaymaker/Bug-Tracking-System.git
 cd Bug-Tracking-System
 ```
+
